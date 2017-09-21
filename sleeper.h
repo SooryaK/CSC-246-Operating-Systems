@@ -1,0 +1,2 @@
+void rideTime();
+void walkAroundTime();
